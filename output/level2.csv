@@ -1,0 +1,1133 @@
+bill_id,question_id,question,answer
+IESCO_0002,Q1,Is this a net-metered (solar) connection or a standard connection? How did you tell?,"This is a standard connection rather than a net-metered solar connection. 
+
+We can tell because the bill does not show any printed evidence of net metering, such as mention of ""Net Metering"", export energy readings, or a net metering benefit. The meter info and consumer details only show a standard domestic tariff A-1a(01), a previous reading of 5949.08, and a present reading of 6625.57, which calculates to 676 units consumed with no recorded units exported back to the grid."
+IESCO_0002,Q2,Which month in the last 12 months had the highest units consumed?,"To answer your question about which month in the last 12 months had the highest units consumed, we can look at the usage history listed on your bill:
+
+- August 2025: 727.0 units
+- September 2025: 597.0 units
+- October 2025: 656.0 units
+- November 2025: 182.0 units
+- December 2025: 143.0 units
+- January 2026: 155.0 units
+- February 2026: 175.0 units
+- March 2026: 142.0 units
+- April 2026: 154.0 units
+- May 2026: 267.0 units
+- June 2026: 412.0 units
+- July 2026: 525.0 units
+
+The month with the highest units consumed in the previous 12 months is August 2025 with 727.0 units. If we also include the current billing month of August 2026 (which has 676.0 units), August 2025 remains the highest month in this history window."
+IESCO_0002,Q3,"How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?",You are being charged a Fuel Price Adjustment (FPA) of PKR 370.76 for the month of June 2026. This is listed under the bill charges breakdown and next to the note mentioning June at a rate of 0.7503 rupees per unit for 412 units.
+IESCO_0002,Q4,"If I don't pay on time, what late payment surcharges will be added?","If you do not pay this bill on time, a late payment surcharge of PKR 2,981.0 will be added. 
+
+To show the working:
+- The payable amount within the due date (24-AUG-26) is PKR 69,897.0.
+- The payable amount after the due date (specifically for the late payment breakdown on the bill) shows an added late payment surcharge of PKR 2,981.0, bringing the total after the due date to PKR 72,878.0 (calculated as the current bill of PKR 38,323.0 plus arrears of PKR 31,203.0 plus the late payment surcharge of PKR 2,981.0, which equals PKR 72,507.0 plus other listed adjustments or surcharges up to the final total of PKR 72,878.0)."
+IESCO_0002,Q5,Am I consuming more units than in the same month last year?,"No, you are not consuming more units than in the same month last year. 
+
+To compare your usage:
+- In August 2026 (the current bill month), you consumed 676.0 units.
+- In August 2025 (the same month last year), you consumed 727.0 units.
+
+This is a difference of -51.0 units, meaning your consumption is lower this year than it was in August of last year."
+IESCO_0002,Q6,"What are my average monthly units consumed, and how does this month compare?","To answer your question about your average monthly electricity consumption and how this month compares, I have reviewed the usage history listed on your bill covering the 12 months from August 2025 through August 2026. 
+
+Your average monthly electricity consumption across these 12 months is 344.6 units. This calculation includes the current month of August 2026 and considers the following monthly usage values:
+- August 2025: 727 units
+- September 2025: 597 units
+- October 2025: 656 units
+- November 2025: 182 units
+- December 2025: 143 units
+- January 2026: 155 units
+- February 2026: 175 units
+- March 2026: 142 units
+- April 2026: 154 units
+- May 2026: 267 units
+- June 2026: 412 units
+- July 2026: 525 units
+- August 2026 (current month): 676 units
+
+If you exclude the current month and calculate the average strictly for the 12 previous months shown in the usage table (August 2025 through July 2026), your average is 338.4 units per month.
+
+For this current month of August 2026, your bill shows you consumed 676 units. This is significantly higher than your overall 12-month average of 344.6 units. Compared to the same month last year (August 2025, which had 727 units), your consumption this month is 51 units lower."
+IESCO_0002,Q7,How many more units do I consume in summer (June-August) than in winter (December-February)?,"To answer your question about seasonal electricity consumption, we can look at the monthly usage listed in your bill history.
+
+When comparing the latest available summer months (June 2026 at 412 units, July 2026 at 525 units, and August 2026 at 676 units) with the winter months (December 2025 at 143 units, January 2026 at 155 units, and February 2026 at 175 units), here are the calculations:
+
+- Total summer units for 2026: 1,613 units (June: 412, July: 525, August: 676), giving a summer monthly average of 537.7 units.
+- Total winter units for 2025-2026: 473 units (December: 143, January: 155, February: 175), giving a winter monthly average of 157.7 units.
+- The difference between your summer and winter monthly averages for this latest year is 380 units.
+
+If we look at all available summer and winter months in your history table (which includes August 2025 at 727 units):
+- Total summer units across all listed summer months: 2,340 units (June 2026: 412, July 2026: 525, August 2026: 676, August 2025: 727), giving a summer average of 585 units.
+- Total winter units: 473 units, giving a winter average of 157.7 units.
+- The difference using these broader averages is 427.3 units."
+IESCO_0002,Q8,"Looking at the payments for the 12 months shown on the bill, have I been paying every bill?","Looking at the 12-month payment history shown on the bill, you have not paid every bill. There are 5 months where no payment is recorded, while the remaining 7 months show payments matching the billed amounts. 
+
+Here are the specific months with no payment recorded:
+- 2025-09: Billed PKR 32,414.00, Paid PKR 0.00
+- 2026-02: Billed PKR 6,844.00, Paid PKR 0.00
+- 2026-03: Billed PKR 13,546.00, Paid PKR 0.00
+- 2026-05: Billed PKR 12,125.00, Paid PKR 0.00
+- 2026-07: Billed PKR 28,959.00, Paid PKR 0.00
+
+Here are the months where payments were recorded as fully paid:
+- 2025-08: Billed PKR 80,594.00, Paid PKR 80,594.00
+- 2025-10: Billed PKR 73,264.00, Paid PKR 73,264.00
+- 2025-11: Billed PKR 6,395.00, Paid PKR 6,395.00
+- 2025-12: Billed PKR 4,767.00, Paid PKR 4,767.00
+- 2026-01: Billed PKR 5,816.00, Paid PKR 5,816.00
+- 2026-04: Billed PKR 20,670.00, Paid PKR 20,670.00
+- 2026-06: Billed PKR 34,613.00, Paid PKR 34,613.00
+
+This unpaid history contributes to the current arrears of PKR 31,203.00 listed on your bill."
+IESCO_0002,Q9,Have my units consumed gone up or down over the last 3 months?,"Over the last 3 months, your units consumed have gone up. Looking at the usage history listed on your bill, the monthly figures are:
+- June 2026: 412 units
+- July 2026: 525 units
+- August 2026 (current month): 676 units
+
+From the first month (June 2026) to the last month (August 2026), your consumption increased by 264 units. If you compare just the previous month to the current month, July 2026 was 525 units and August 2026 is 676 units, which is an increase of 151 units."
+IESCO_0002,Q10,"Based on the 12 months trend, how many units should I expect to consume next month?","Based on the 12-month usage history shown in your bill, we can look at a few different ways to estimate your consumption for next month, which is September 2026. 
+
+- Using the average of the previous 12 months, which covers August 2025 through July 2026 with a total of 4,135 units across 12 months (727, 597, 656, 182, 143, 155, 175, 142, 154, 267, 412, and 525 units), you can expect to consume roughly 344.6 units.
+- Looking at the same month last year, September 2025 shows an actual consumption of 597.0 units.
+- Using a linear trend calculation based on your recent history, the estimated consumption for next month is roughly 383.2 units.
+
+Please note that these figures are estimates based on your past billing data, and your actual consumption may vary depending on your usage."
+IESCO_0002,Q11,"If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?","To find out how much you should set aside each month to spread your electricity cost evenly across the year, we can calculate the average of your billed amounts from the payment history shown on the bill. 
+
+Looking at the payment history section for the past 12 months, the billed amounts for each month are:
+- 2025-08: PKR 80,594.00
+- 2025-09: PKR 32,414.00
+- 2025-10: PKR 73,264.00
+- 2025-11: PKR 6,395.00
+- 2025-12: PKR 4,767.00
+- 2026-01: PKR 5,816.00
+- 2026-02: PKR 6,844.00
+- 2026-03: PKR 13,546.00
+- 2026-04: PKR 20,670.00
+- 2026-05: PKR 12,125.00
+- 2026-06: PKR 34,613.00
+- 2026-07: PKR 28,959.00
+
+The total billed amount across these 12 months is PKR 320,007.00. Dividing this total by 12 gives an average monthly billed amount of PKR 26,667.25. 
+
+Therefore, you should set aside approximately PKR 26,667.25 each month to evenly cover your annual electricity costs based on your past year of billing. Please note that this is an estimate calculated from your historical bills and future costs may vary depending on your actual monthly usage and tariff adjustments."
+IESCO_0002,Q12,"If I consume the same units as last month, what would my bill be roughly?","Based on the bill provided, if your consumption next month matches your usage from last month, your estimated bill would be roughly PKR 29,762.68. 
+
+Here is how this estimate was calculated:
+- Last month's units (July 2026): 525.0 units
+- Current cost per unit: PKR 56.69 (calculated by dividing the current bill of PKR 38,323.0 by the current consumption of 676.0 units)
+- Calculation: 525.0 units multiplied by PKR 56.69 per unit equals PKR 29,762.68.
+
+Please note that this is an estimate based on your previous month's usage and the current effective cost per unit, and your actual future bill may vary depending on tariff changes or adjustments."
+IESCO_0003,Q1,Is this a net-metered (solar) connection or a standard connection? How did you tell?,"This is a standard connection rather than a net-metered solar connection. 
+
+Here is how we can tell from the bill:
+- The bill does not show any printed evidence of net metering, such as export energy readings, import energy readings, or a net metering benefit line.
+- The consumer type and tariff category are listed as Domestic, Protected under tariff A-1A(01), with no mention of solar generation or net metering terms."
+IESCO_0003,Q2,Which month in the last 12 months had the highest units consumed?,"The month in the last 12 months with the highest units consumed is September 2025 with 75.0 units. 
+
+Working:
+- Reviewing the usage history for the past 12 months listed on the bill:
+- 2025-09: 75.0 units
+- 2025-10: 46.0 units
+- 2025-11: 30.0 units
+- 2025-12: 40.0 units
+- 2026-01: 50.0 units
+- 2026-02: 27.0 units
+- 2026-03: 8.0 units
+- 2026-04: 23.0 units
+- 2026-05: 24.0 units
+- 2026-06: 48.0 units
+- 2026-07: 70.0 units
+- 2026-08: 49.0 units
+Comparing all listed amounts, 75.0 units in September 2025 is the highest. If you also consider the current month of September 2026 (which shows 58.0 units), September 2025 remains the highest."
+IESCO_0003,Q3,"How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?","You are being charged PKR 172.00 for fuel adjustment, which is listed as FPA on the bill under the bill charges breakdown. This fuel adjustment charge is for the electricity consumed in the month of July 2026, as noted in the bill message explaining that the FPA of PKR 172.00 is included for the consumption of 70 units in July."
+IESCO_0003,Q4,"If I don't pay on time, what late payment surcharges will be added?","If you do not pay this bill by the due date of 12 Oct 26, you will lose the discounted rate and face an extra charge. Here are the specific figures shown on your bill:
+
+- Payable Within Due Date: PKR 1,649.00
+- Payable After Due Date: PKR 1,773.00
+- Late Payment Extra Amount: PKR 124.00 (calculated as the difference between the after-due-date and within-due-date amounts: 1,773.00 minus 1,649.00)
+- L.P. Surcharge (Late Payment Surcharge): PKR 62.00 listed under the meter info section
+
+This means paying after the due date will increase your total cost by PKR 124.00."
+IESCO_0003,Q5,Am I consuming more units than in the same month last year?,"No, you are consuming fewer units than in the same month last year. 
+
+To answer this, I looked at the units consumed for September in the usage history on the bill:
+- Sep 2025: 75.0 units
+- Sep 2026 (current month): 58.0 units
+
+This is a decrease of 17.0 units compared to the same month last year."
+IESCO_0003,Q6,"What are my average monthly units consumed, and how does this month compare?","To answer your question about your average monthly units consumed and how this month compares, I used the usage history listed on your bill covering the 12 months from September 2025 to August 2026, plus the current month of September 2026.
+
+Your average monthly units consumed is 40.8 units. This was calculated by taking the total units consumed over the 12-month history and dividing by 12 months. Here are the monthly units used for that average:
+- September 2025: 75.0 units
+- October 2025: 46.0 units
+- November 2025: 30.0 units
+- December 2025: 40.0 units
+- January 2026: 50.0 units
+- February 2026: 27.0 units
+- March 2026: 8.0 units
+- April 2026: 23.0 units
+- May 2026: 24.0 units
+- June 2026: 48.0 units
+- July 2026: 70.0 units
+- August 2026: 49.0 units
+
+If you also want to include the current month of September 2026 in the average (making it 13 months total, adding 58.0 units for September 2026), your average becomes 42.2 units per month.
+
+For how this month compares:
+- Your current month consumption for September 2026 is 58.0 units.
+- This is higher than your 12-month average of 40.8 units.
+- Compared to the same month last year (September 2025 at 75.0 units), your consumption this month is 17.0 units lower (calculated as 58.0 units for September 2026 minus 75.0 units for September 2025)."
+IESCO_0003,Q7,How many more units do I consume in summer (June-August) than in winter (December-February)?,"To find the difference between your summer and winter electricity consumption, we can look at the units consumed during the summer months of June to August and the winter months of December to February as listed in your bill history.
+
+For the summer months, the units consumed were:
+- June 2026: 48.0 units
+- July 2026: 70.0 units
+- August 2026: 49.0 units
+This gives a total summer consumption of 167.0 units, with a monthly average of 55.7 units.
+
+For the winter months, the units consumed were:
+- December 2025: 40.0 units
+- January 2026: 50.0 units
+- February 2026: 27.0 units
+This gives a total winter consumption of 117.0 units, with a monthly average of 39.0 units.
+
+Subtracting the winter monthly average (39.0 units) from the summer monthly average (55.7 units) shows that you consume 16.7 more units per month on average in the summer than in winter. If comparing total seasonal consumption, summer is higher by 50.0 units (167.0 summer units minus 117.0 winter units)."
+IESCO_0003,Q8,"Looking at the payments for the 12 months shown on the bill, have I been paying every bill?","Looking at the 12-month payment history shown on the bill, yes, you have been paying every bill. There are no months with missing payments or months where you paid less than the billed amount. Here are the details for each month listed in the bill:
+
+- Sep 2025: Billed PKR 816.0, Paid PKR 850.0
+- Oct 2025: Billed PKR 506.0, Paid PKR 548.0
+- Nov 2025: Billed PKR 385.0, Paid PKR 385.0
+- Dec 2025: Billed PKR 539.0, Paid PKR 539.0
+- Jan 2026: Billed PKR 676.0, Paid PKR 732.0
+- Feb 2026: Billed PKR 744.0, Paid PKR 775.0
+- Mar 2026: Billed PKR 914.0, Paid PKR 914.0
+- Apr 2026: Billed PKR 1,066.0, Paid PKR 1,066.0
+- May 2026: Billed PKR 1,034.0, Paid PKR 1,034.0
+- Jun 2026: Billed PKR 1,271.0, Paid PKR 1,271.0
+- Jul 2026: Billed PKR 1,470.0, Paid PKR 1,470.0
+- Aug 2026: Billed PKR 1,277.0, Paid PKR 1,277.0"
+IESCO_0003,Q9,Have my units consumed gone up or down over the last 3 months?,"Your units consumed have gone down over the last 3 months. Looking at the last 3 months of usage listed on the bill:
+- July 2026: 70.0 units
+- August 2026: 49.0 units
+- September 2026: 58.0 units
+
+Comparing the first of these three months (July 2026 at 70.0 units) to the most recent month (September 2026 at 58.0 units), your consumption decreased by 12.0 units. If you compare August (49.0 units) to September (58.0 units), your consumption went up by 9.0 units in the most recent month, but overall across the three-month window, the trend shows a decrease of 12.0 units."
+IESCO_0003,Q10,"Based on the 12 months trend, how many units should I expect to consume next month?","Based on the 12 months of usage history shown on the bill, here are a few ways to estimate your units for next month depending on the method used:
+
+- If you use the average of the previous 12 months, which covers September 2025 to August 2026, you should expect to consume 40.8 units. The monthly units used to calculate this are: September 2025 at 75.0 units, October 2025 at 46.0 units, November 2025 at 30.0 units, December 2025 at 40.0 units, January 2026 at 50.0 units, February 2026 at 27.0 units, March 2026 at 8.0 units, April 2026 at 23.0 units, May 2026 at 24.0 units, June 2026 at 48.0 units, July 2026 at 70.0 units, and August 2026 at 49.0 units.
+- If you look at the same month last year, which was October 2025, your consumption was 46.0 units.
+- If you use a linear trend based on the recent months, your expected consumption would be 51.0 units."
+IESCO_0003,Q11,"If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?","To find out how much you should set aside each month to spread your electricity cost evenly across the year, we can look at the total amount billed over the previous 12 months shown on the bill. 
+
+The bill lists the following 12 monthly billed amounts from September 2025 to August 2026:
+- Sep 2025: PKR 816.00
+- Oct 2025: PKR 506.00
+- Nov 2025: PKR 385.00
+- Dec 2025: PKR 539.00
+- Jan 2026: PKR 676.00
+- Feb 2026: PKR 744.00
+- Mar 2026: PKR 914.00
+- Apr 2026: PKR 1,066.00
+- May 2026: PKR 1,034.00
+- Jun 2026: PKR 1,271.00
+- Jul 2026: PKR 1,470.00
+- Aug 2026: PKR 1,277.00
+
+This gives a total billed amount of PKR 10,698.00 over these 12 months. Dividing this total by 12 gives an average monthly billed amount of PKR 891.50.
+
+If you also want to include the current month (September 2026) with its current bill of PKR 1,477.00, the total for 13 months becomes PKR 12,175.00, which averages out to PKR 936.54 per month.
+
+Therefore, you should estimate setting aside roughly PKR 891.50 (or PKR 936.54 if including the current month) each month."
+IESCO_0003,Q12,"If I consume the same units as last month, what would my bill be roughly?","If you consume the same units as last month, your bill would be roughly PKR 1,247.81 as an estimate. 
+
+Here is how this estimate was calculated:
+- Last month's units (August 2026) were 49.0 units.
+- The cost per unit on the current bill is PKR 25.47, derived by dividing the current bill of PKR 1,477.0 by the current units consumed of 58.0.
+- Multiplying 49.0 units by PKR 25.47 gives an estimated amount of PKR 1,247.81."
+IESCO_0005,Q1,Is this a net-metered (solar) connection or a standard connection? How did you tell?,"This is a standard connection rather than a net-metered solar connection. 
+
+Here is how we can tell from the bill:
+- The bill does not show any mention of net metering, export or import energy readings, or net metering benefits anywhere on the page.
+- The connection category is listed as Unprotected and the tariff is A-1A(01) for domestic use, which are typical for standard residential supply."
+IESCO_0005,Q2,Which month in the last 12 months had the highest units consumed?,"The month in the last 12 months with the highest units consumed is August 2026, with 246.0 units. 
+
+Here is the breakdown of the usage history listed on the bill for the previous 12 months:
+- September 2025: 172.0 units
+- October 2025: 152.0 units
+- November 2025: 113.0 units
+- December 2025: 139.0 units
+- January 2026: 95.0 units
+- February 2026: 166.0 units
+- March 2026: 119.0 units
+- April 2026: 128.0 units
+- May 2026: 122.0 units
+- June 2026: 188.0 units
+- July 2026: 243.0 units
+- August 2026: 246.0 units"
+IESCO_0005,Q3,"How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?",Your bill includes a fuel price adjustment (FPA) of PKR 599.00 for 243 units consumed in July 26.
+IESCO_0005,Q4,"If I don't pay on time, what late payment surcharges will be added?","If you do not pay your bill on time, a late payment surcharge of PKR 336.0 will be added. This increases your total payable amount from PKR 8,603.0 due by September 24, 2026, to an after-due-date payable of PKR 9,274.0."
+IESCO_0005,Q5,Am I consuming more units than in the same month last year?,"Yes, you are consuming slightly more units than in the same month last year. 
+
+- In September 2026 (the current bill), your consumption was 177.0 units.
+- In September 2025 (the same month last year), your consumption was 172.0 units.
+- This is an increase of 5.0 units."
+IESCO_0005,Q6,"What are my average monthly units consumed, and how does this month compare?","To find your average monthly units consumed, we look at the 12 months of usage history listed on the bill from September 2025 through August 2026. 
+
+- September 2025: 172 units
+- October 2025: 152 units
+- November 2025: 113 units
+- December 2025: 139 units
+- January 2026: 95 units
+- February 2026: 166 units
+- March 2026: 119 units
+- April 2026: 128 units
+- May 2026: 122 units
+- June 2026: 188 units
+- July 2026: 243 units
+- August 2026: 246 units
+
+The average across these previous 12 months is 156.9 units per month. If we include the current month of September 2026 (which has 177 units), the average across all 13 listed months is also 156.9 units.
+
+For this month (September 2026), your consumption is 177 units. This is higher than your 12-month average of 156.9 units by 20.1 units. Compared to the same month last year (September 2025, which had 172 units), this month is higher by 5 units."
+IESCO_0005,Q7,How many more units do I consume in summer (June-August) than in winter (December-February)?,"To find out how many more units you consume in summer compared to winter, we can look at the usage history listed on your bill for those specific months. 
+
+For the summer months of June to August, your usage was:
+- June 2026: 188.0 units
+- July 2026: 243.0 units
+- August 2026: 246.0 units
+This gives a total summer consumption of 677.0 units, with a summer monthly average of 225.7 units.
+
+For the winter months of December to February, your usage was:
+- December 2025: 139.0 units
+- January 2026: 95.0 units
+- February 2026: 166.0 units
+This gives a total winter consumption of 400.0 units, with a winter monthly average of 133.3 units.
+
+Subtracting the winter monthly average from the summer monthly average, you consume an average of 92.4 more units in summer than in winter."
+IESCO_0005,Q8,"Looking at the payments for the 12 months shown on the bill, have I been paying every bill?","Looking at the 12-month payment history shown on the bill, you have paid almost every bill, but there is one month where no payment is recorded.
+
+Here is the breakdown of the months listed in the payment history section:
+- Sep25: Billed PKR 2,083.00, Paid PKR 2,083.00
+- Oct25: Billed PKR 1,822.00, Paid PKR 1,822.00
+- Nov25: Billed PKR 1,374.00, Paid PKR 1,374.00
+- Dec25: Billed PKR 1,965.00, Paid PKR 1,965.00
+- Jan26: Billed PKR 1,285.00, Paid PKR 1,285.00
+- Feb26: Billed PKR 2,572.00, Paid PKR 2,572.00
+- Mar26: Billed PKR 3,268.00, Paid PKR 3,268.00
+- Apr26: Billed PKR 3,516.00, Paid PKR 3,516.00
+- May26: Billed PKR 3,134.00, Paid PKR 0.00
+- Jun26: Billed PKR 7,601.00, Paid PKR 7,601.00
+- Jul26: Billed PKR 11,684.00, Paid PKR 11,684.00
+- Aug26: Billed PKR 11,926.00, Paid PKR 11,926.00
+
+The bill does not show any payment recorded for May 2026, where the billed amount was PKR 3,134.00 and the paid amount is listed as PKR 0.00. All other listed months show the full billed amount as paid."
+IESCO_0005,Q9,Have my units consumed gone up or down over the last 3 months?,"Your units consumed have gone down over the last 3 months. 
+
+Here is the breakdown of the units consumed for the last 3 months listed on your bill:
+- July 2026: 243.0 units
+- August 2026: 246.0 units
+- September 2026: 177.0 units
+
+From the first month in this period (July 2026) to the last month (September 2026), your consumption decreased by a total of 66.0 units (calculated as 177.0 units in September minus 243.0 units in July)."
+IESCO_0005,Q10,"Based on the 12 months trend, how many units should I expect to consume next month?","Based on the 12 months of usage history shown on the bill, there are a few ways to estimate next month's consumption depending on the method used:
+
+- If you take the average of the previous 12 months (September 2025 through August 2026), the expected consumption is 156.9 units. Those 12 months and their units are: Sep25 at 172.0 units, Oct25 at 152.0 units, Nov25 at 113.0 units, Dec25 at 139.0 units, Jan26 at 95.0 units, Feb26 at 166.0 units, Mar26 at 119.0 units, Apr26 at 128.0 units, May26 at 122.0 units, Jun26 at 188.0 units, Jul26 at 243.0 units, and Aug26 at 246.0 units.
+- If you look at the same month last year (October 2025, listed as Oct25), your consumption was 152.0 units.
+- If you use a linear trend based on the recent trajectory, the projected consumption for next month is 215.1 units.
+
+Since this is a forecast estimate, your actual usage may vary."
+IESCO_0005,Q11,"If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?","To find out how much you should set aside each month to spread your electricity cost evenly across the year, we can look at the total billed amount from your payment history. 
+
+Over the 12 recorded billing months in your payment history, the total billed amount is PKR 52,230.00. This history includes the following months and amounts:
+- Apr26: PKR 3,516.00
+- Aug26: PKR 11,926.00
+- Dec25: PKR 1,965.00
+- Feb26: PKR 2,572.00
+- Jan26: PKR 1,285.00
+- Jul26: PKR 11,684.00
+- Jun26: PKR 7,601.00
+- Mar26: PKR 3,268.00
+- May26: PKR 3,134.00
+- Nov25: PKR 1,374.00
+- Oct25: PKR 1,822.00
+- Sep25: PKR 2,083.00
+
+Dividing this total of PKR 52,230.00 by the 12 months gives an average of PKR 4,352.50 per month. Therefore, you should set aside roughly PKR 4,352.50 each month to cover your annual electricity costs evenly."
+IESCO_0005,Q12,"If I consume the same units as last month, what would my bill be roughly?","To estimate your bill if your consumption matches last month, we can use your previous month's usage and the current cost per unit. 
+
+- Last month's units (August 2026): 246.0 units
+- Current cost per unit: PKR 45.22 (calculated by dividing the current bill of PKR 8,004.0 by 177.0 units)
+
+Using these figures, if you consume 246.0 units at the current rate, your estimated bill would be roughly PKR 11,124.2. Please note this is only an estimate and actual charges may vary based on future tariff changes and applicable taxes."
+KESC_0002,Q1,Is this a net-metered (solar) connection or a standard connection? How did you tell?,"This is a standard connection, not a net-metered connection. 
+
+I checked the bill for printed evidence of net metering, such as export and import energy readings, net metering benefits, or a net metering customer type, and none of these appear anywhere on the bill. The bill only lists standard electricity consumption under the variable usage section, showing a current reading of 10,094, a previous reading of 9,935, and total units consumed of 159."
+KESC_0002,Q2,Which month in the last 12 months had the highest units consumed?,"Based on the 13 Month Usage History section of your bill, which lists data from September 2025 through September 2026, the month in the previous 12 months with the highest units consumed is July 2026 with 298.0 units. 
+
+If looking across all 13 months shown including the current month, July 2026 remains the highest at 298.0 units."
+KESC_0002,Q3,"How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?","The bill shows a Fuel Charges Adjustment (FCA) of PKR 613.31. According to the bill calculation section, this adjustment applies to the month of July 2026, listed as FCA :Jul-26 under the charges."
+KESC_0002,Q4,"If I don't pay on time, what late payment surcharges will be added?","If you do not pay your bill on time, a late payment surcharge will be added, and your total payable amount will increase. 
+
+- The regular amount payable within the due date of 22nd Sep 2026 is PKR 7,621.00.
+- If paid after the due date, an initial late payment surcharge of PKR 317.96 is added (listed on the bill as Late Payment Surcharge (5%)), making the total PKR 7,939.00 for payments made from 23-Sep-26 to 25-Sep-26.
+- A higher late payment surcharge of PKR 635.92 is also shown on the bill (listed as Late Payment Surcharge (10%)), bringing the total to PKR 8,257.00 for payments made after 25-Sep-26. 
+
+This means missing the deadline will cost you an extra PKR 636.00 in total penalties."
+KESC_0002,Q5,Am I consuming more units than in the same month last year?,"No, you are consuming fewer units this month than you did in the same month last year. 
+
+- Sep-2025: 176.0 units
+- Sep-2026: 159.0 units
+
+This is a decrease of 17.0 units compared to last year."
+KESC_0002,Q6,"What are my average monthly units consumed, and how does this month compare?","To answer your question about your average monthly electricity consumption and how this month compares, here are the details based on your bill history.
+
+Depending on how you look at the average, here are two ways to calculate it:
+
+- If we include the current month of Sep-26 along with the previous 12 months, your usage history covers 13 months: Sep-2025 (176 units), Oct-2025 (173 units), Nov-2025 (187 units), Dec-2025 (124 units), Jan-2026 (96 units), Feb-2026 (88 units), Mar-2026 (115 units), Apr-2026 (151 units), May-2026 (171 units), Jun-2026 (261 units), Jul-2026 (298 units), Aug-2026 (235 units), and Sep-2026 (159 units). The average for these 13 months is 171.8 units.
+- If we look strictly at the previous 12 months (excluding the current month of Sep-26), the average is 172.9 units.
+
+For this month, your current consumption for Sep-2026 is 159 units. 
+
+Comparing this month to the 12-month previous average of 172.9 units, your consumption this month is 13.9 units lower, which is an 8.04 percent decrease. If you compare it to the 13-month average of 171.8 units, your usage this month is 12.8 units lower."
+KESC_0002,Q7,How many more units do I consume in summer (June-August) than in winter (December-February)?,"To answer your question about seasonal consumption, we can look at the 13 Month Usage History section on your bill. 
+
+For the summer months of June to August 2026, your total consumption was 794 units across the following months:
+- June 2026: 261.0 units
+- July 2026: 298.0 units
+- August 2026: 235.0 units
+This gives a summer average of 264.7 units per month.
+
+For the winter months of December 2025 to February 2026, your total consumption was 308 units across the following months:
+- December 2025: 124.0 units
+- January 2026: 96.0 units
+- February 2026: 88.0 units
+This gives a winter average of 102.7 units per month.
+
+Comparing the monthly averages, you consume 162.0 more units on average in summer than in winter (calculated as 264.7 summer average minus 102.7 winter average). If you compare the total seasonal units, the summer total is 486 units higher than the winter total (794 summer units minus 308 winter units)."
+KESC_0002,Q8,"Looking at the payments for the 12 months shown on the bill, have I been paying every bill?","The bill shows a payment history table listing the past 3 months. Here is what is recorded:
+
+- June 2026: billed PKR 12,866.40, paid PKR 12,866.00 on 18-Jun-26
+- July 2026: billed PKR 13,605.87, paid PKR 13,606.00 on 13-Jul-26
+- August 2026: billed PKR 11,180.07, paid PKR 11,180.00 on 17-Aug-26
+
+The bill does not show payment history rows for the other 9 months of the 12-month window. Based on the 3 months that are listed, you paid the full billed amounts."
+KESC_0002,Q9,Have my units consumed gone up or down over the last 3 months?,"Your electricity consumption has gone down over the last 3 months. 
+
+Here are the exact figures listed on your bill:
+- July 2026: 298.0 units
+- August 2026: 235.0 units
+- September 2026: 159.0 units
+
+Comparing the first month of this period (July 2026 at 298.0 units) to the most recent month (September 2026 at 159.0 units), your consumption decreased by 139.0 units."
+KESC_0002,Q10,"Based on the 12 months trend, how many units should I expect to consume next month?","Based on the 12-month trend shown in your bill history, you can expect to consume roughly 172.9 units next month. 
+
+To calculate this, we took the average of the previous 12 months listed in your 13 Month Usage History section:
+- Sep-2025: 176.0 units
+- Oct-2025: 173.0 units
+- Nov-2025: 187.0 units
+- Dec-2025: 124.0 units
+- Jan-2026: 96.0 units
+- Feb-2026: 88.0 units
+- Mar-2026: 115.0 units
+- Apr-2026: 151.0 units
+- May-2026: 171.0 units
+- Jun-2026: 261.0 units
+- Jul-2026: 298.0 units
+- Aug-2026: 235.0 units
+
+This average does not include the current month (Sep-2026: 159.0 units). If you instead look at the exact same month last year (Sep-2025), your consumption was 176.0 units."
+KESC_0002,Q11,"If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?","To spread your electricity cost evenly across the year, we can look at your total electricity consumption over the past 12 months and apply your current average cost per unit. 
+
+Over the previous 12 months from September 2025 through August 2026, your total electricity usage was 2,075 units, which gives a monthly average of 172.9 units. The 12 months counted are:
+- Sep 2025: 176.0 units
+- Oct 2025: 173.0 units
+- Nov 2025: 187.0 units
+- Dec 2025: 124.0 units
+- Jan 2026: 96.0 units
+- Feb 2026: 88.0 units
+- Mar 2026: 115.0 units
+- Apr 2026: 151.0 units
+- May 2026: 171.0 units
+- Jun 2026: 261.0 units
+- Jul 2026: 298.0 units
+- Aug 2026: 235.0 units
+(Note that the current month of September 2026 with 159.0 units is excluded from this 12-month past average).
+
+Your current bill shows a total cost of PKR 47.93 per unit (calculated by dividing your current bill of PKR 7,620.53 by your current consumption of 159.0 units). 
+
+Multiplying your average monthly consumption of 172.9 units by your current cost of PKR 47.93 per unit gives an estimated monthly amount to set aside of PKR 8,287.09. If you instead include the current month in a 13-month average, your average consumption is 171.8 units, which would give a monthly amount of PKR 8,234.37 to set aside."
+KESC_0002,Q12,"If I consume the same units as last month, what would my bill be roughly?","To find out what your bill would roughly be if you consumed the same units as last month, we can use last month's consumption and the current cost per unit. 
+
+- Last month's consumption in August 2026 was 235.0 units, as listed in the 13 Month Usage History section.
+- Your current cost per unit is PKR 47.93, which is calculated by dividing your current bill amount of PKR 7,620.53 by your current consumption of 159.0 units.
+- Multiplying last month's 235.0 units by the current cost per unit of PKR 47.93 gives an estimated bill of PKR 11,263.05.
+
+Please note that this is an estimate and your actual bill may vary depending on changes in taxes, fuel adjustment charges, or tariff slabs."
+KESC_0003,Q1,Is this a net-metered (solar) connection or a standard connection? How did you tell?,"This is a standard connection rather than a net-metered solar connection. 
+
+I checked the bill for printed evidence of net metering, such as export and import energy readings, a net metering benefit, or a net-metered customer type classification, but none of these features or mentions appear anywhere on the bill."
+KESC_0003,Q2,Which month in the last 12 months had the highest units consumed?,"Looking at your 13-month usage history on the bill, the month with the highest units consumed in the last 12 months was July 2026 with 622 units. 
+
+For your reference, here are the units consumed for each month in that 12-month period (excluding the current month of September 2026):
+- 2025-09: 374 units
+- 2025-10: 368 units
+- 2025-11: 277 units
+- 2025-12: 179 units
+- 2026-01: 151 units
+- 2026-02: 141 units
+- 2026-03: 221 units
+- 2026-04: 269 units
+- 2026-05: 286 units
+- 2026-06: 563 units
+- 2026-07: 622 units
+- 2026-08: 576 units"
+KESC_0003,Q3,"How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?","You are being charged PKR 1,280.14 for fuel charges, which is listed as FCA on the bill. The bill shows this FCA applies to the month of July 2026, labeled as FCA :Jul-26 in the Bill Calculation section."
+KESC_0003,Q4,"If I don't pay on time, what late payment surcharges will be added?","If you do not pay your bill on time by the due date of 24th Sep 2026, late payment surcharges will be added based on when you make the payment. 
+
+Here are the details shown on your bill:
+- If you pay between 25th Sep 2026 and 27th Sep 2026, a 5 percent late payment surcharge of PKR 1,049.45 applies, making your total amount payable PKR 26,296.00.
+- If you pay after 27th Sep 2026, a 10 percent late payment surcharge of PKR 2,098.90 applies, making your total amount payable PKR 27,345.00."
+KESC_0003,Q5,Am I consuming more units than in the same month last year?,"Yes, you are consuming more units than in the same month last year. 
+
+- In September 2026, your current bill shows consumption of 459.0 units.
+- In September 2025, your usage history shows consumption of 374.0 units.
+- This is an increase of 85.0 units compared to the same month last year."
+KESC_0003,Q6,"What are my average monthly units consumed, and how does this month compare?","Your average monthly electricity consumption depends on how many months you look at, and whether you include the current month of September 2026. 
+
+If you look at the 12 previous months from September 2025 through August 2026, your average is 335.6 units per month. Those 12 months and their units are:
+- September 2025: 374.0 units
+- October 2025: 368.0 units
+- November 2025: 277.0 units
+- December 2025: 179.0 units
+- January 2026: 151.0 units
+- February 2026: 141.0 units
+- March 2026: 221.0 units
+- April 2026: 269.0 units
+- May 2026: 286.0 units
+- June 2026: 563.0 units
+- July 2026: 622.0 units
+- August 2026: 576.0 units
+
+If you include the current month of September 2026 (459.0 units) in a 13-month total, your average becomes 345.1 units per month.
+
+For comparison, your current month consumption for September 2026 is 459.0 units. This is 123.4 units higher than your previous 12-month average of 335.6 units, which is an increase of about 36.77 percent. Compared to the exact same month last year (September 2025, which was 374.0 units), this month's consumption is 85.0 units higher."
+KESC_0003,Q7,How many more units do I consume in summer (June-August) than in winter (December-February)?,"To find the difference in your electricity consumption between summer and winter, we look at the usage history shown on your bill for the designated months:
+
+- Summer months (June to August 2026): June had 563.0 units, July had 622.0 units, and August had 576.0 units, giving a total of 1,761.0 units and a summer monthly average of 587.0 units.
+- Winter months (December 2025 to February 2026): December had 179.0 units, January had 151.0 units, and February had 141.0 units, giving a total of 471.0 units and a winter monthly average of 157.0 units.
+
+Comparing the averages, you consume an average of 430.0 more units in summer than in winter (587.0 units summer average minus 157.0 units winter average). Comparing the total seasonal consumption, you consume 1,290.0 more units in total during the summer period (1,761.0 summer units minus 471.0 winter units)."
+KESC_0003,Q8,"Looking at the payments for the 12 months shown on the bill, have I been paying every bill?","Looking at the payment history section on your bill, there are 3 months of payment records listed:
+- June 2026: billed PKR 31,254.95, paid PKR 31,255.00 on 23-Jun-26
+- July 2026: billed PKR 33,987.16, paid PKR 33,987.00 on 27-Jul-26
+- August 2026: billed PKR 30,854.13, paid PKR 30,854.00 on 22-Aug-26
+
+The bill does not show payment records for the other 9 months in the 13-month usage history. Therefore, based strictly on the printed payment history, only these 3 recent months are shown as paid."
+KESC_0003,Q9,Have my units consumed gone up or down over the last 3 months?,"Your electricity consumption has gone down over the last 3 months. 
+
+Here are the exact figures listed on your bill:
+- July 2026: 622.0 units
+- August 2026: 576.0 units
+- September 2026: 459.0 units
+
+Comparing the first month (July) to the last month (September), your consumption decreased by 163.0 units."
+KESC_0003,Q10,"Based on the 12 months trend, how many units should I expect to consume next month?","Based on the 12 months trend shown in your bill history, your forecast for next month depends on the method used. 
+
+- Using the average of the previous 12 months, you can expect to consume about 335.6 units. This average is calculated from the following months and units: September 2025 at 374.0 units, October 2025 at 368.0 units, November 2025 at 277.0 units, December 2025 at 179.0 units, January 2026 at 151.0 units, February 2026 at 141.0 units, March 2026 at 221.0 units, April 2026 at 269.0 units, May 2026 at 286.0 units, June 2026 at 563.0 units, July 2026 at 622.0 units, and August 2026 at 576.0 units (excluding the current month of September 2026).
+- Looking at the same month last year, you consumed 368.0 units in October 2025.
+- Using a linear trend based on recent changes, the estimate for next month is 554.8 units. 
+
+Since these are estimates, you may want to set aside an amount based on whichever trend you feel best matches your expected usage."
+KESC_0003,Q11,"If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?","To spread your electricity cost evenly across the year, you can look at the total amount billed over the last three recorded payment months in your history table, which gives a monthly average of PKR 32,032.08. 
+
+Here is how that average is calculated from the payment history section:
+- June 2026 billed amount: PKR 31,254.95
+- July 2026 billed amount: PKR 33,987.16
+- August 2026 billed amount: PKR 30,854.13
+- Total billed for these 3 months: PKR 96,096.24 divided by 3 equals PKR 32,032.08.
+
+If you instead want to base your monthly savings on your annual energy consumption, you can use your average monthly usage of 335.6 units over the previous 12 months (September 2025 through August 2026, counting each month once) multiplied by your current effective cost per unit of PKR 55.00 (calculated from the current bill amount of PKR 25,245.77 divided by 459 units), which equals approximately PKR 18,458.00 per month. 
+
+Please note that these are estimates based on past billing history and current rates, and actual future bills may vary depending on your seasonal usage and tariff changes."
+KESC_0003,Q12,"If I consume the same units as last month, what would my bill be roughly?","If you consume the same units as last month, your estimated bill would be roughly PKR 31,680.97. 
+
+Here is how this estimate is calculated:
+- Last month's units consumed (August 2026): 576.0 units, as listed in the 13 Month Usage History section.
+- Current cost per unit: PKR 55.0, calculated by dividing the current bill total of PKR 25,245.77 by the 459.0 units consumed this month.
+- Estimated calculation: multiplying last month's 576.0 units by the current rate of PKR 55.0 per unit gives PKR 31,680.97.
+
+Please note that this is a rough estimate using your most recent consumption and current per-unit costs, and actual charges may vary depending on changes in taxes, fuel adjustment charges, or tariff rates on your next bill."
+KESC_0005,Q1,Is this a net-metered (solar) connection or a standard connection? How did you tell?,"This is a standard connection, not a net-metered solar connection. 
+
+Here is how we can tell from the bill:
+- The customer type listed in the customer information section is STAR, and the tariff is A1-R, which are standard residential categories rather than net metering.
+- The electricity consumption section only shows standard readings for off-peak and peak energy used, with no readings or credits for exported or surplus units sent back to the grid.
+- There are no mentions of net metering, export energy, or net metering benefits anywhere on the bill."
+KESC_0005,Q2,Which month in the last 12 months had the highest units consumed?,"In the last 12 months listed on the bill, the month with the highest units consumed was June 2025, with 438.0 units. 
+
+Here is the full 12-month usage history leading up to the current bill for reference, excluding the current month of April 2026:
+- April 2025: 214.0 units
+- May 2025: 255.0 units
+- June 2025: 438.0 units
+- July 2025: 306.0 units
+- August 2025: 249.0 units
+- September 2025: 274.0 units
+- October 2025: 277.0 units
+- November 2025: 264.0 units
+- December 2025: 227.0 units
+- January 2026: 169.0 units
+- February 2026: 204.0 units
+- March 2026: 185.0 units"
+KESC_0005,Q3,"How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?","Based on your bill, you are being charged PKR 290.39 for fuel adjustment, which is listed on the bill as FCA :Feb-26 under the Bill Calculation section."
+KESC_0005,Q4,"If I don't pay on time, what late payment surcharges will be added?","If you do not pay your bill on time by the due date of 20th Apr 2026, late payment surcharges will be added based on when you make the payment. 
+
+Here are the details shown on the bill:
+- The normal payable amount by the due date is PKR 17,297.00.
+- If you pay between 21st Apr and 23rd Apr 2026, a 5 percent late payment surcharge of PKR 724.07 is added, making the total payable PKR 18,022.00 (listed on the bill as PKR 18,022).
+- If you pay after 23rd Apr 2026, a 10 percent late payment surcharge of PKR 1,448.13 is added, making the total payable PKR 18,745.00 (listed on the bill as PKR 18,745).
+
+The extra amount added for late payment is approximately PKR 1,448.00 at the 10 percent rate."
+KESC_0005,Q5,Am I consuming more units than in the same month last year?,"Yes, you are consuming more units than in the same month last year. 
+
+- April 2025: 214.0 units
+- April 2026: 286.0 units
+
+This is an increase of 72.0 units compared to the same month last year."
+KESC_0005,Q6,"What are my average monthly units consumed, and how does this month compare?","Your average monthly electricity consumption depends on how many months are included in the calculation. 
+
+Using the last 12 previous months from April 2025 through March 2026, your average is 255.2 units per month. Those 12 months are:
+- April 2025: 214.0 units
+- May 2025: 255.0 units
+- June 2025: 438.0 units
+- July 2025: 306.0 units
+- August 2025: 249.0 units
+- September 2025: 274.0 units
+- October 2025: 277.0 units
+- November 2025: 264.0 units
+- December 2025: 227.0 units
+- January 2026: 169.0 units
+- February 2026: 204.0 units
+- March 2026: 185.0 units
+
+If you also include the current billing month of April 2026 at 286.0 units, the average across all 13 listed months becomes 257.5 units per month.
+
+For this current month (April 2026), your consumption is 286.0 units. This is 30.8 units higher than your 12-month average of 255.2 units, which is an increase of about 12.07 percent. Compared to the same month last year (April 2025 at 214.0 units), your usage this month is 72.0 units higher."
+KESC_0005,Q7,How many more units do I consume in summer (June-August) than in winter (December-February)?,"To find out how many more units you consume in summer compared to winter, we can look at the usage history listed on your bill for those specific months.
+
+For the summer months, counting June to August 2025:
+- June 2025: 438.0 units
+- July 2025: 306.0 units
+- August 2025: 249.0 units
+This gives a summer total of 993.0 units and a monthly summer average of 331.0 units.
+
+For the winter months, counting December 2025 to February 2026:
+- December 2025: 227.0 units
+- January 2026: 169.0 units
+- February 2026: 204.0 units
+This gives a winter total of 600.0 units and a monthly winter average of 200.0 units.
+
+Comparing the averages, your monthly consumption in summer is 131.0 units higher than in winter (331.0 units minus 200.0 units). Comparing the total period consumption, your summer total is 393.0 units higher than your winter total (993.0 units minus 600.0 units). The current billing month of April 2026 is not included in these specific seasonal calculations."
+KESC_0005,Q8,"Looking at the payments for the 12 months shown on the bill, have I been paying every bill?","Looking at the payment history shown on the bill, a payment record is only listed for the last 3 months, which are January 2026, February 2026, and March 2026. The bill does not show payment records for the remaining 9 months of the 12-month history window.
+
+For the three months where payments are recorded, here is what was billed and paid:
+- Billed for 01/26 was PKR 10,059.17, and paid was PKR 10,059.00 on 19-Jan-26.
+- Billed for 02/26 was PKR 12,294.67, and paid was PKR 12,295.00 on 16-Feb-26.
+- Billed for 03/26 was PKR 12,136.42, and paid was PKR 12,136.00 on 23-Mar-26.
+
+Based on this, the bill does not show whether you paid every single bill across the entire 12-month history, as it only details these three recent transactions."
+KESC_0005,Q9,Have my units consumed gone up or down over the last 3 months?,"Over the last 3 months, your electricity consumption has gone up. Here are the units consumed for each of those months:
+- 2026-02: 204.0 units
+- 2026-03: 185.0 units
+- 2026-04: 286.0 units
+
+This includes the current month of April 2026. From the first month in this three-month window (February 2026) to the last month (April 2026), your consumption increased by 82.0 units. 
+
+If you look at the previous month alone (March 2026 at 185.0 units) compared to the current month (April 2026 at 286.0 units), your consumption went up by 101.0 units."
+KESC_0005,Q10,"Based on the 12 months trend, how many units should I expect to consume next month?","Based on the 12-month trend shown in your bill history, you can expect to consume roughly 255.2 units next month. 
+
+To calculate this, we took the average of the previous 12 months listed on your bill:
+- 2025-04: 214.0 units
+- 2025-05: 255.0 units
+- 2025-06: 438.0 units
+- 2025-07: 306.0 units
+- 2025-08: 249.0 units
+- 2025-09: 274.0 units
+- 2025-10: 277.0 units
+- 2025-11: 264.0 units
+- 2025-12: 227.0 units
+- 2026-01: 169.0 units
+- 2026-02: 204.0 units
+- 2026-03: 185.0 units
+
+This average excludes the current month of April 2026 (which is 286.0 units). If you look at the same month last year (May 2025), your consumption was 255.0 units, which is very close to this 12-month average. Please note that this is an estimate and actual consumption may vary depending on your usage."
+KESC_0005,Q11,"If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?","To spread your electricity cost evenly across the year, we can calculate your average monthly bill based on the 12 previous months listed in your billing history. 
+
+Looking at the payment history section, your billed amounts for the three available months are:
+- January 2026: PKR 10,059.17
+- February 2026: PKR 12,294.67
+- March 2026: PKR 13,214.42 (calculated from the previous 3 months total billed average)
+
+The bill does not show a full 12-month monetary history, but it does show 13 months of unit consumption history. Using the 12 previous months of unit usage (April 2025 through March 2026), your average monthly consumption is 255.2 units. At your current effective cost of PKR 60.48 per unit, your average monthly bill works out to approximately PKR 15,434.46. 
+
+If you prefer to base this strictly on the recent billing history shown on the bill (covering January to March 2026), the average of those 3 recorded billed amounts is PKR 11,496.75. 
+
+Therefore, you should set aside roughly PKR 11,496.75 to PKR 15,434.46 each month, depending on whether you rely on your recent actual bills or your estimated yearly consumption cost."
+KESC_0005,Q12,"If I consume the same units as last month, what would my bill be roughly?","To estimate your bill if you consume the same units as last month, we can look at your consumption in March 2026 and apply your current cost per unit.
+
+- Last month in March 2026, you consumed 185.0 units.
+- Your current cost per unit for this bill is PKR 60.48, which is calculated by dividing your current bill amount of PKR 17,296.50 by your 286.0 consumed units.
+- Multiplying last month's units of 185.0 by the current cost per unit of PKR 60.48 gives an estimated bill of PKR 11,188.30.
+
+Please note that this is a rough estimate based on your previous month's usage and your current average rate per unit. Your actual bill may vary depending on changes in fuel charges, taxes, or tiered pricing."
+KESC_0006,Q1,Is this a net-metered (solar) connection or a standard connection? How did you tell?,"This is a standard connection rather than a net-metered connection. We can tell because there is no printed evidence of net metering on the bill, such as mentions of export or import energy, net metering benefits, or a net-metering customer type. Instead, the bill simply shows a standard energy consumption of 371.0 units based on the previous reading of 31850.0 and current reading of 32221.0."
+KESC_0006,Q2,Which month in the last 12 months had the highest units consumed?,"The month in the last 12 months with the highest units consumed was June 2026, with a consumption of 838.0 units. 
+
+Here is the breakdown of the usage history listed on the bill for the last 12 months:
+- September 2025: 344.0 units
+- October 2025: 342.0 units
+- November 2025: 369.0 units
+- December 2025: 171.0 units
+- January 2026: 135.0 units
+- February 2026: 196.0 units
+- March 2026: 209.0 units
+- April 2026: 290.0 units
+- May 2026: 412.0 units
+- June 2026: 838.0 units
+- July 2026: 629.0 units
+- August 2026: 455.0 units
+
+This list excludes the current month of September 2026 (371.0 units) to strictly cover the preceding 12 months."
+KESC_0006,Q3,"How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?","You are being charged PKR 1,294.54 for the fuel adjustment, which is listed as FCA: Jul-26 on the bill calculation table for the billing month of September 2026."
+KESC_0006,Q4,"If I don't pay on time, what late payment surcharges will be added?","If you do not pay this bill by the due date of 22nd Sep 2026, the bill details show two late payment surcharge options depending on when you pay:
+
+- A late payment surcharge (5%) of PKR 830.14 will apply if paid between 23-Sep-26 and 25-Sep-26, making the total amount payable PKR 20,795.00.
+- A late payment surcharge (10%) of PKR 1,660.28 will apply if paid after 25-Sep-26, making the total amount payable PKR 21,624.00.
+
+This means you would face an extra charge of PKR 830.14 or PKR 1,660.28, representing about an 8.31% increase on the base bill amount."
+KESC_0006,Q5,Am I consuming more units than in the same month last year?,"Yes, you are consuming more units than in the same month last year. 
+
+- In the current month of September 2026, your bill shows you consumed 371.0 units (listed under the Current Month box and usage history for 2026-09).
+- In the same month last year, September 2025, your usage history shows you consumed 344.0 units (listed under usage history for 2025-09).
+
+This is a difference of 27.0 units more this year compared to September last year."
+KESC_0006,Q6,"What are my average monthly units consumed, and how does this month compare?","Your average monthly consumption over the previous 12 months is 365.8 units. This average is calculated from the following 12 months of usage history, excluding the current month:
+- Sep 2025: 344 units
+- Oct 2025: 342 units
+- Nov 2025: 369 units
+- Dec 2025: 171 units
+- Jan 2026: 135 units
+- Feb 2026: 196 units
+- Mar 2026: 209 units
+- Apr 2026: 290 units
+- May 2026: 412 units
+- Jun 2026: 838 units
+- Jul 2026: 629 units
+- Aug 2026: 455 units
+
+If you include the current billing month (Sep 2026 at 371 units), making a total of 13 months, your average is 366.2 units.
+
+For this month (Sep 2026), your consumption is 371 units. This is very close to your 12-month average, sitting just 5.2 units (or about 1.42 percent) higher than the previous 12-month average of 365.8 units. Compared to the same month last year (Sep 2025 at 344 units), your usage this month is 27 units higher."
+KESC_0006,Q7,How many more units do I consume in summer (June-August) than in winter (December-February)?,"To find how many more units you consume in summer compared to winter, we look at the usage history for both seasons from your bill:
+
+- Summer months (June 2026, July 2026, and August 2026): June 2026 used 838.0 units, July 2026 used 629.0 units, and August 2026 used 455.0 units, giving a total of 1,922.0 units and a summer monthly average of 640.7 units.
+- Winter months (December 2025, January 2026, and February 2026): December 2025 used 171.0 units, January 2026 used 135.0 units, and February 2026 used 196.0 units, giving a total of 502.0 units and a winter monthly average of 167.3 units.
+
+Comparing the averages, your summer monthly average consumption is 473.4 units higher than your winter monthly average consumption (640.7 units minus 167.3 units). 
+
+Comparing total consumption for the periods, your total summer consumption is 1,420.0 units higher than your total winter consumption (1,922.0 units minus 502.0 units)."
+KESC_0006,Q8,"Looking at the payments for the 12 months shown on the bill, have I been paying every bill?","Looking at the bill, there are 3 months of payment history shown in the Billing and Payment History section. For those listed months, you have paid every bill in full:
+- June 2026: Billed PKR 57,777.49, Paid PKR 57,778.00 on 18-Jun-26
+- July 2026: Billed PKR 37,822.27, Paid PKR 37,822.00 on 13-Jul-26
+- August 2026: Billed PKR 24,552.09, Paid PKR 24,552.00 on 17-Aug-26
+
+The bill does not show a full 12 months of payment history, so payment records for earlier months are not available on this bill."
+KESC_0006,Q9,Have my units consumed gone up or down over the last 3 months?,"Your units consumed have gone down over the last 3 months. Looking at the usage history listed on your bill:
+
+- July 2026: 629.0 units
+- August 2026: 455.0 units
+- September 2026: 371.0 units
+
+From the first month in this 3-month window (July 2026) to the last month (September 2026), your consumption decreased by a total of 258.0 units."
+KESC_0006,Q10,"Based on the 12 months trend, how many units should I expect to consume next month?","Based on the 12 months trend leading up to this bill, you can expect to consume roughly 365.8 units next month. 
+
+To find this estimate, we calculated the average monthly electricity consumption across the 12 previous months listed on your bill:
+- 2025-09: 344 units
+- 2025-10: 342 units
+- 2025-11: 369 units
+- 2025-12: 171 units
+- 2026-01: 135 units
+- 2026-02: 196 units
+- 2026-03: 209 units
+- 2026-04: 290 units
+- 2026-05: 412 units
+- 2026-06: 838 units
+- 2026-07: 629 units
+- 2026-08: 455 units
+
+For another perspective, looking at the same month last year (October 2025), your consumption was 342 units."
+KESC_0006,Q11,"If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?","To spread your electricity cost evenly across the year, we can look at your total billing history. The bill shows three past months of payment history:
+- June 2026: billed PKR 57,777.49
+- July 2026: billed PKR 37,822.27
+- August 2026: billed PKR 24,552.09
+
+The total billed amount across these three months is PKR 120,151.85, which gives an average billed amount of PKR 40,050.62 per month. Based on this available payment history, you should set aside PKR 40,050.62 each month. 
+
+Please note that the bill does not show a full 12 months of monetary billing history, so this estimate is based solely on the 3 months of billing records printed on the bill."
+KESC_0006,Q12,"If I consume the same units as last month, what would my bill be roughly?","If you consume the same units as last month, which was 455 units in August 2026, your bill would be roughly an estimated PKR 24,483.99. 
+
+This estimate is calculated using the previous month's usage of 455 units multiplied by your current cost per unit of approximately PKR 53.81 (derived from your current bill amount of PKR 19,963.87 divided by your current consumption of 371 units)."
+LESCO_0001,Q1,Is this a net-metered (solar) connection or a standard connection? How did you tell?,"This is a standard connection rather than a net-metered connection. 
+
+To determine this, we looked for printed evidence of net metering such as export and import energy readings, a net metering benefit, or a net metering customer type, none of which appear on the bill. The tariff category is listed as Domestic A-1A(01) with an unprotected status and a sanctioned load of 3 kilowatts, which are typical for standard residential connections."
+LESCO_0001,Q2,Which month in the last 12 months had the highest units consumed?,"The month in the last 12 months with the highest units consumed was March 2026, with a consumption of 201.0 units."
+LESCO_0001,Q3,"How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?","You are being charged PKR 471.00 for the Fuel Price Adjustment (FPA). 
+
+According to the notes on the bill, this FPA is for July 2026 (shown as July 26 on the bill) and was charged for 0 units consumed in that month."
+LESCO_0001,Q4,"If I don't pay on time, what late payment surcharges will be added?","If you do not pay this bill on time by the due date of 28 SEP 26, the payable amount increases from PKR 8,567.00 to the payable after due date amount of PKR 9,245.00. 
+
+This means a late payment extra amount of PKR 678.00 will be added, which is an increase of approximately 7.91 percent."
+LESCO_0001,Q5,Am I consuming more units than in the same month last year?,"Yes, you are consuming more units than in the same month last year. 
+
+To answer this, we compare September of last year with September of the current bill month:
+- September 2025: 179.0 units
+- September 2026: 188.0 units
+
+Subtracting last year's units from this year's units (188.0 minus 179.0), you consumed 9.0 more units this year."
+LESCO_0001,Q6,"What are my average monthly units consumed, and how does this month compare?","Your average monthly electricity consumption is 185.7 units. This average is calculated from the previous 12 months listed on the bill, which include:
+- Sep 2025: 179.0 units
+- Oct 2025: 192.0 units
+- Nov 2025: 191.0 units
+- Dec 2025: 189.0 units
+- Jan 2026: 182.0 units
+- Feb 2026: 182.0 units
+- Mar 2026: 201.0 units
+- Apr 2026: 165.0 units
+- May 2026: 192.0 units
+- Jun 2026: 179.0 units
+- Jul 2026: 191.0 units
+- Aug 2026: 185.0 units
+
+For this current month (SEP 26), your consumption is 188.0 units. This is slightly above your 12-month average of 185.7 units. 
+
+When compared to the same month last year (SEP 25, which was 179.0 units), your current consumption of 188.0 units is 9.0 units higher."
+LESCO_0001,Q7,How many more units do I consume in summer (June-August) than in winter (December-February)?,"To answer your question about seasonal consumption, we can compare the total units used during the summer months (June to August) and the winter months (December to February) as listed in your bill history.
+
+For the summer months, we counted:
+- June 2026: 179.0 units
+- July 2026: 191.0 units
+- August 2026: 185.0 units
+The total summer consumption is 555.0 units, with a monthly average of 185.0 units.
+
+For the winter months, we counted:
+- December 2025: 189.0 units
+- January 2026: 182.0 units
+- February 2026: 182.0 units
+The total winter consumption is 553.0 units, with a monthly average of 184.3 units.
+
+Subtracting the total winter units (553.0) from the total summer units (555.0) shows that you consumed 2.0 more units in total during the summer. Comparing the monthly averages (185.0 units for summer minus 184.3 units for winter), your summer consumption is higher by 0.7 units per month."
+LESCO_0001,Q8,"Looking at the payments for the 12 months shown on the bill, have I been paying every bill?","Looking at the 12 months of payment history shown on your bill, yes, you have been paying every bill in full. 
+
+Here are the details for each month from the payment history listed on the bill:
+- 2025-09: Billed PKR 2,179.00, Paid PKR 2,179.00
+- 2025-10: Billed PKR 2,377.00, Paid PKR 2,476.00
+- 2025-11: Billed PKR 2,547.00, Paid PKR 2,547.00
+- 2025-12: Billed PKR 2,780.00, Paid PKR 2,780.00
+- 2026-01: Billed PKR 2,705.00, Paid PKR 2,705.00
+- 2026-02: Billed PKR 2,871.00, Paid PKR 2,871.00
+- 2026-03: Billed PKR 10,410.00, Paid PKR 10,410.00
+- 2026-04: Billed PKR 7,783.00, Paid PKR 7,783.00
+- 2026-05: Billed PKR 8,520.00, Paid PKR 8,520.00
+- 2026-06: Billed PKR 8,026.00, Paid PKR 8,026.00
+- 2026-07: Billed PKR 8,027.00, Paid PKR 8,027.00
+- 2026-08: Billed PKR 7,895.00, Paid PKR 7,895.00
+
+There are no months with recorded unpaid amounts or payments less than what was billed."
+LESCO_0001,Q9,Have my units consumed gone up or down over the last 3 months?,"To answer your question about whether your units consumed have gone up or down over the last 3 months, we can look at the consumption figures listed on your bill:
+
+- July 2026: 191.0 units
+- August 2026: 185.0 units
+- September 2026: 188.0 units
+
+Comparing the first month (July 2026 at 191.0 units) to the most recent month (September 2026 at 188.0 units), your consumption has gone down by a total of 3.0 units. 
+
+If you are looking at the month-to-month trend, your usage dropped from 191.0 units in July to 185.0 units in August, and then went back up slightly to 188.0 units in September."
+LESCO_0001,Q10,"Based on the 12 months trend, how many units should I expect to consume next month?","Based on the 12 months trend, you can expect to consume roughly 185.7 units next month. 
+
+To calculate this, we took the average of the previous 12 months listed on your bill:
+- Sep 2025: 179.0 units
+- Oct 2025: 192.0 units
+- Nov 2025: 191.0 units
+- Dec 2025: 189.0 units
+- Jan 2026: 182.0 units
+- Feb 2026: 182.0 units
+- Mar 2026: 201.0 units
+- Apr 2026: 165.0 units
+- May 2026: 192.0 units
+- Jun 2026: 179.0 units
+- Jul 2026: 191.0 units
+- Aug 2026: 185.0 units
+
+Adding these 12 months gives a total of 2,228.0 units, which divided by 12 gives an average of 185.7 units. Please note that this is an estimate based on your past usage."
+LESCO_0001,Q11,"If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?","To find out how much you should set aside each month to spread your electricity cost evenly across the year, we can look at your billing history for the past 12 months. 
+
+Adding up the billed amounts for each of the 12 months in your payment history gives a total of PKR 66,120.00. Here are the monthly amounts used in this calculation:
+- 2025-09: PKR 2,179.00
+- 2025-10: PKR 2,377.00
+- 2025-11: PKR 2,547.00
+- 2025-12: PKR 2,780.00
+- 2026-01: PKR 2,705.00
+- 2026-02: PKR 2,871.00
+- 2026-03: PKR 10,410.00
+- 2026-04: PKR 7,783.00
+- 2026-05: PKR 8,520.00
+- 2026-06: PKR 8,026.00
+- 2026-07: PKR 8,027.00
+- 2026-08: PKR 7,895.00
+
+Dividing the total of PKR 66,120.00 by 12 months results in an average of PKR 5,510.00 per month. Therefore, you should set aside roughly PKR 5,510.00 each month. Please note that this is an estimate based on your previous year's billing history, and future bills may vary depending on your actual electricity consumption and tariff changes."
+LESCO_0001,Q12,"If I consume the same units as last month, what would my bill be roughly?","If you consume the same units as last month, which was 185.0 units in 2026-08, your estimated bill would be roughly PKR 7,966.81. 
+
+This estimate is calculated by taking your previous month's consumption of 185.0 units and multiplying it by the current cost per unit of PKR 43.06, which is based on the current bill total of PKR 8,096.0 divided by the current units consumed of 188.0."
+LESCO_0002,Q1,Is this a net-metered (solar) connection or a standard connection? How did you tell?,"This is a standard connection rather than a net-metered solar connection. 
+
+To determine this, we looked at the bill for printed evidence of net metering, such as export and import energy readings, net metering benefits, or a net metering customer type classification. None of these indicators appear anywhere on the bill. Furthermore, the meter information section only shows a single previous reading of 42159.0, a present reading of 42576.0, and total consumed units of 417.0, without any breakdown for exported solar energy."
+LESCO_0002,Q2,Which month in the last 12 months had the highest units consumed?,"The month with the highest units consumed in the last 12 months shown in the usage history on the bill is October 2025 with 829.0 units. 
+
+Here is the list of usage for the previous 12 months as shown in the bill history:
+- September 2025: 30.0 units
+- October 2025: 829.0 units
+- November 2025: 239.0 units
+- December 2025: 123.0 units
+- January 2026: 96.0 units
+- February 2026: 73.0 units
+- March 2026: 78.0 units
+- April 2026: 128.0 units
+- May 2026: 201.0 units
+- June 2026: 245.0 units
+- July 2026: 327.0 units
+- August 2026: 426.0 units"
+LESCO_0002,Q3,"How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?","The bill shows a fuel price adjustment (FPA) charge of PKR 806.00 for the month of July 2026. This is listed under the bill charges breakdown as Total FPA PKR 806.00, and the notes section confirms that this amount is for zero units for July 26."
+LESCO_0002,Q4,"If I don't pay on time, what late payment surcharges will be added?","If you do not pay this bill by the due date of 28 SEP 26, a late payment surcharge of PKR 1,973.00 will be added. This increases your total payable amount from PKR 24,372.00 (payable within due date) to PKR 26,345.00 (payable after due date)."
+LESCO_0002,Q5,Am I consuming more units than in the same month last year?,"Yes, you are consuming more units than in the same month last year. 
+
+To compare the consumption:
+- In September 2026 (the current bill month), you consumed 417.0 units based on the previous reading of 42159.0 and the present reading of 42576.0.
+- In September 2025 (the same month last year), your usage history shows you consumed 30.0 units.
+
+This means your usage increased by 387.0 units when comparing September 2026 to September 2025."
+LESCO_0002,Q6,"What are my average monthly units consumed, and how does this month compare?","Your average monthly electricity consumption is 232.9 units. This average was calculated using the previous 12 months listed in your bill history:
+- September 2025: 30.0 units
+- October 2025: 829.0 units
+- November 2025: 239.0 units
+- December 2025: 123.0 units
+- January 2026: 96.0 units
+- February 2026: 73.0 units
+- March 2026: 78.0 units
+- April 2026: 128.0 units
+- May 2026: 201.0 units
+- June 2026: 245.0 units
+- July 2026: 327.0 units
+- August 2026: 426.0 units
+
+For the current bill month of September 2026, your consumed units are 417.0, which is higher than your 12-month average of 232.9 units."
+LESCO_0002,Q7,How many more units do I consume in summer (June-August) than in winter (December-February)?,"To find out how many more units you consume in summer compared to winter, we can look at the usage history table on your bill for the designated months.
+
+For the summer months (June to August), the units consumed were:
+- June 2026: 245.0 units
+- July 2026: 327.0 units
+- August 2026: 426.0 units
+This gives a total summer consumption of 998.0 units, with a monthly average of 332.7 units.
+
+For the winter months (December to February), the units consumed were:
+- December 2025: 123.0 units
+- January 2026: 96.0 units
+- February 2026: 73.0 units
+This gives a total winter consumption of 292.0 units, with a monthly average of 97.3 units.
+
+Comparing the averages, your summer average consumption is 235.4 units higher than your winter average consumption (332.7 units minus 97.3 units). If you compare the total seasonal consumption, summer is 706.0 units higher than winter (998.0 units minus 292.0 units)."
+LESCO_0002,Q8,"Looking at the payments for the 12 months shown on the bill, have I been paying every bill?","Yes, you have been paying every bill shown in the payment history on your bill. 
+
+To check this, we looked at the 12 history rows listed under the bill history section, covering the months from September 2025 to August 2026. For each month, the bill records both the billed amount and the paid amount:
+
+- September 2025: Billed PKR -377.00, Paid PKR 30,000.00
+- October 2025: Billed PKR 19,504.00, Paid PKR 20,479.00
+- November 2025: Billed PKR 10,054.00, Paid PKR 10,054.00
+- December 2025: Billed PKR 3,873.00, Paid PKR 3,873.00
+- January 2026: Billed PKR 2,717.00, Paid PKR 2,717.00
+- February 2026: Billed PKR 2,415.00, Paid PKR 2,415.00
+- March 2026: Billed PKR 4,235.00, Paid PKR 4,235.00
+- April 2026: Billed PKR 6,868.00, Paid PKR 6,868.00
+- May 2026: Billed PKR 10,883.00, Paid PKR 10,883.00
+- June 2026: Billed PKR 12,688.00, Paid PKR 12,688.00
+- July 2026: Billed PKR 17,189.00, Paid PKR 17,189.00
+- August 2026: Billed PKR 23,655.00, Paid PKR 23,655.00
+
+There are no months with missing payments or amounts paid less than what was billed."
+LESCO_0002,Q9,Have my units consumed gone up or down over the last 3 months?,"Your units consumed have gone up over the last 3 months. Looking at the usage history listed on your bill, the consumption for each of those months is:
+- July 2026: 327.0 units
+- August 2026: 426.0 units
+- September 2026: 417.0 units
+
+Between July 2026 and September 2026, your monthly consumption increased by a net of 90.0 units. If you compare July to August, it went up by 99.0 units, and then from August to September, it decreased slightly by 9.0 units."
+LESCO_0002,Q10,"Based on the 12 months trend, how many units should I expect to consume next month?","Based on the 12 months of usage history shown on your bill, there are a few different ways to forecast your electricity consumption for next month (October 2026). Here are the estimates depending on the method used:
+
+- If you take the average of the previous 12 months (September 2025 through August 2026), you can expect to consume roughly 232.9 units. This average is calculated from the following monthly units: September 2025 at 30.0 units, October 2025 at 829.0 units, November 2025 at 239.0 units, December 2025 at 123.0 units, January 2026 at 96.0 units, February 2026 at 73.0 units, March 2026 at 78.0 units, April 2026 at 128.0 units, May 2026 at 201.0 units, June 2026 at 245.0 units, July 2026 at 327.0 units, and August 2026 at 426.0 units (excluding the current month of September 2026).
+- If you look at the same month last year (October 2025), your consumption was 829.0 units.
+- If you use a linear trend based on recent history, the projected consumption for next month is roughly 259.7 units.
+
+Please note that these figures are estimates and your actual consumption may vary."
+LESCO_0002,Q11,"If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?","To spread your electricity cost evenly across the year, you can set aside an average of PKR 9,475.33 each month. 
+
+Here is how this was calculated:
+- This is based on the twelve previous billing months shown in your payment history, from September 2025 to August 2026.
+- The billed amounts for those months are:
+- September 2025: PKR -377.00
+- October 2025: PKR 19,504.00
+- November 2025: PKR 10,054.00
+- December 2025: PKR 3,873.00
+- January 2026: PKR 2,717.00
+- February 2026: PKR 2,415.00
+- March 2026: PKR 4,235.00
+- April 2026: PKR 6,868.00
+- May 2026: PKR 10,883.00
+- June 2026: PKR 12,688.00
+- July 2026: PKR 17,189.00
+- August 2026: PKR 23,655.00
+- The total of these twelve bills is PKR 113,704.00, which gives a monthly average of PKR 9,475.33. 
+
+If you also want to include your current month (September 2026) in the calculation:
+- Your current bill is PKR 23,566.00.
+- Including this month brings the total for thirteen months to PKR 137,270.00.
+- Dividing that total by thirteen months gives an average of PKR 10,559.23 per month."
+LESCO_0002,Q12,"If I consume the same units as last month, what would my bill be roughly?","If you consume the same units as last month, your estimated bill would be roughly PKR 24,074.62. 
+
+Here is the working for this estimate:
+- Previous month units (August 2026): 426.0 units
+- Current cost per unit: PKR 56.51 (calculated by dividing the current bill of PKR 23,566.0 by the current units consumed of 417.0)
+- Calculation: 426.0 units multiplied by PKR 56.51 per unit equals PKR 24,074.62.
+
+Please note that this is an estimate based on your previous month's consumption and the current cost per unit; actual charges may vary depending on future tariff changes and taxes."
+LESCO_0008,Q1,Is this a net-metered (solar) connection or a standard connection? How did you tell?,"This is a standard connection rather than a net-metered solar connection. 
+
+To determine this, the bill was checked for printed evidence of net metering, such as export and import energy readings, a net metering benefit line, or a net metering customer type. None of these indicators appear on the bill. Furthermore, the meter reading section shows only a single multiplier of 1 and standard previous and present readings of 6529.0 and 6618.0, resulting in 89.0 consumed units without any mention of energy exported back to the grid."
+LESCO_0008,Q2,Which month in the last 12 months had the highest units consumed?,"The month with the highest units consumed in the last 12 months shown on the bill is June 2025 (2025-06), with a consumption of 194.0 units. 
+
+Here is the full 12-month usage history listed on the bill:
+- April 2025: 103.0 units
+- May 2025: 174.0 units
+- June 2025: 194.0 units
+- July 2025: 181.0 units
+- August 2025: 177.0 units
+- September 2025: 153.0 units
+- October 2025: 135.0 units
+- November 2025: 59.0 units
+- December 2025: 123.0 units
+- January 2026: 168.0 units
+- February 2026: 136.0 units
+- March 2026: 139.0 units
+
+Note that the current billing month (April 2026 with 89.0 units) is shown in the usage table but is not included in this past 12-month window."
+LESCO_0008,Q3,"How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?","You are being charged PKR 193.60 for the fuel price adjustment, which is listed under the LESCO charges section on the bill as FUEL PRICE ADJUSTMENT. 
+
+Regarding the month for which this fuel adjustment applies, the bill shows ""FPA FEB-26 @ 1.4235"" right above the LESCO charges section, indicating that this adjustment relates to the month of February 2026."
+LESCO_0008,Q4,"If I don't pay on time, what late payment surcharges will be added?","If you do not pay by the due date of 29 APR 26, the bill shows an additional amount of PKR 141.00. 
+
+Here is how that total is made up from the bill lines under the payment section:
+- L.P.SURCHARGE (Late Payment Surcharge): PKR 71.00
+- The difference between Payable Within Due Date (PKR 1,910.00) and Payable After Due Date (PKR 2,051.00): PKR 141.00
+
+This means the total payable increases from PKR 1,910.00 to PKR 2,051.00 after the due date."
+LESCO_0008,Q5,Am I consuming more units than in the same month last year?,"No, you are consuming fewer units than in the same month last year. 
+
+Here is the comparison using the units listed on your bill:
+- April 2025: 103.0 units
+- April 2026 (current month): 89.0 units
+
+The difference is a decrease of 14.0 units (89.0 units minus 103.0 units)."
+LESCO_0008,Q6,"What are my average monthly units consumed, and how does this month compare?","To answer your question about your average monthly electricity consumption and how this month compares, here are the exact figures from your bill and history:
+
+- Average monthly units consumed: Your average is 145.2 units per month. This was calculated using the 12 listed months in your usage history (April 2025 through March 2026), plus the current month of April 2026 (89 units), giving a total of 12 months counted. The monthly values used are: April 2025 (103.0 units), May 2025 (174.0 units), June 2025 (194.0 units), July 2025 (181.0 units), August 2025 (177.0 units), September 2025 (153.0 units), October 2025 (135.0 units), November 2025 (59.0 units), December 2025 (123.0 units), January 2026 (168.0 units), February 2026 (136.0 units), March 2026 (139.0 units), and April 2026 (89.0 units). If you look strictly at the 12 previous months listed in your usage history table (April 2025 through March 2026) without the current billing month, the average is also 145.2 units.
+- How this month compares: For the current bill (April 2026), your consumption is 89.0 units (based on previous reading 6529.0 and current reading 6618.0). This is 56.2 units below your overall 12-month average of 145.2 units. 
+- Comparison with the same month last year: In April 2025, your consumption was 103.0 units. Your current month consumption of 89.0 units is 14.0 units lower than the same month last year (calculated as April 2026 units of 89.0 minus April 2025 units of 103.0).
+
+Regarding net metering, the bill does not show any printed evidence of net metering, export or import energy readings, or a net metering customer type."
+LESCO_0008,Q7,How many more units do I consume in summer (June-August) than in winter (December-February)?,"To answer how many more units you consume in summer compared to winter, we can look at the usage history listed on your bill for those specific months. 
+
+For the summer months of June to August 2025, the units consumed were:
+- June 2025: 194.0 units
+- July 2025: 181.0 units
+- August 2025: 177.0 units
+This gives a summer total of 552.0 units and a summer monthly average of 184.0 units.
+
+For the winter months of December 2025 to February 2026, the units consumed were:
+- December 2025: 123.0 units
+- January 2026: 168.0 units
+- February 2026: 136.0 units
+This gives a winter total of 427.0 units and a winter monthly average of 142.3 units.
+
+Subtracting the winter monthly average from the summer monthly average, you consume an average of 41.7 more units per month in summer than in winter. Based on total seasonal consumption, your summer usage was 125.0 units higher than your winter usage (552.0 summer units minus 427.0 winter units)."
+LESCO_0008,Q8,"Looking at the payments for the 12 months shown on the bill, have I been paying every bill?","Looking at the payment history for the 12 months shown on the bill, yes, every recorded bill has been paid in full. Here are the monthly billing and payment amounts listed on your bill:
+
+- APR-25: Billed PKR 1,198.00, Paid PKR 1,198.00
+- MAY-25: Billed PKR 1,797.00, Paid PKR 1,797.00
+- JUN-25: Billed PKR 2,008.00, Paid PKR 2,008.00
+- JUL-25: Billed PKR 2,066.00, Paid PKR 2,066.00
+- AUG-25: Billed PKR 2,182.00, Paid PKR 2,182.00
+- SEP-25: Billed PKR 1,820.00, Paid PKR 1,820.00
+- OCT-25: Billed PKR 1,589.00, Paid PKR 1,589.00
+- NOV-25: Billed PKR 717.00, Paid PKR 717.00
+- DEC-25: Billed PKR 1,711.00, Paid PKR 1,711.00
+- JAN-26: Billed PKR 2,473.00, Paid PKR 2,473.00
+- FEB-26: Billed PKR 2,106.00, Paid PKR 2,106.00
+- MAR-26: Billed PKR 3,033.00, Paid PKR 3,033.00
+
+The bill does not show any months with unpaid balances or partial payments."
+LESCO_0008,Q9,Have my units consumed gone up or down over the last 3 months?,"Your units consumed have gone down over the last 3 months. 
+
+Here are the consumption figures for the last 3 months listed on the bill:
+- February 2026: 136.0 units
+- March 2026: 139.0 units
+- April 2026: 89.0 units
+
+Comparing the first month (February 2026 at 136.0 units) to the last month (April 2026 at 89.0 units), your consumption decreased by a total of 47.0 units. If you compare just from March 2026 to April 2026, your consumption dropped by 50.0 units.
+
+The bill does not show evidence of net metering."
+LESCO_0008,Q10,"Based on the 12 months trend, how many units should I expect to consume next month?","To estimate your electricity consumption for next month (May 2026) based on the 12-month trend shown in your bill history, we can look at a few different methods using the listed monthly values.
+
+- Average of previous 12 months: 145.2 units. This is calculated using the 12 listed months from April 2025 to March 2026 (April 2025: 103.0 units, May 2025: 174.0 units, June 2025: 194.0 units, July 2025: 181.0 units, August 2025: 177.0 units, September 2025: 153.0 units, October 2025: 135.0 units, November 2025: 59.0 units, December 2025: 123.0 units, January 2026: 168.0 units, February 2026: 136.0 units, and March 2026: 139.0 units).
+- Same month last year: 174.0 units, which is the exact amount recorded for May 2025 in your usage history.
+- Linear trend projection: 99.5 units, estimated based on the recent downward trajectory from your last three months (February 2026: 136.0 units, March 2026: 139.0 units, and April 2026: 89.0 units).
+
+Since this is a forecast, you should expect your consumption to roughly fall anywhere between 99.5 and 174.0 units depending on weather conditions and appliance usage next month."
+LESCO_0008,Q11,"If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?","To estimate how much you should set aside each month to spread your electricity cost evenly across the year, we can look at your billing history from the past 12 months (April 2025 through March 2026). 
+
+During this 12-month period, your total billed amount was PKR 22,700.00 across the following months:
+- April 2025: PKR 1,198.00
+- May 2025: PKR 1,797.00
+- June 2025: PKR 2,008.00
+- July 2025: PKR 2,066.00
+- August 2025: PKR 2,182.00
+- September 2025: PKR 1,820.00
+- October 2025: PKR 1,589.00
+- November 2025: PKR 717.00
+- December 2025: PKR 1,711.00
+- January 2026: PKR 2,473.00
+- February 2026: PKR 2,106.00
+- March 2026: PKR 3,033.00
+
+By dividing the total billed amount of PKR 22,700.00 by 12 months, your average monthly bill is PKR 1,891.67. 
+
+Therefore, as an estimate based on your previous year's billing history, you should set aside roughly PKR 1,891.67 each month. Please note that this is an estimate and actual future bills may vary based on your electricity consumption and tariff changes."
+LESCO_0008,Q12,"If I consume the same units as last month, what would my bill be roughly?","If you consume the same units as last month, your estimated bill would be roughly PKR 2,621.48.
+
+Here is the working for this estimate:
+- Last month (March 2026), your consumption was 139.0 units.
+- The current cost per unit calculated on this bill is PKR 18.86 (derived by dividing the current bill of PKR 1,678.50 by the current month consumption of 89.0 units).
+- Multiplying last month's units (139.0) by the current cost per unit (PKR 18.86) gives an estimated total of PKR 2,621.48.
+
+Please note that this is an estimate and your actual future bill may vary depending on changes in fuel price adjustments, taxes, or tariff rates."
